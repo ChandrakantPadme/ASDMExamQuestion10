@@ -6,7 +6,7 @@ public class TestFinally
 	{
 		try
 		{
-			System.out.println("10");
+			System.out.println("1");
 			//throw new ArithmeticException();
 			//throw new NullPointerException();
 			//System.out.println("2");
